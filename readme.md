@@ -11,7 +11,7 @@ using [vue-template-compiler](https://www.npmjs.com/package/vue-template-compile
 To install this plugin
 
 ```bash
-npm install vue-template-branch --save-dev
+npm install vue-template-brunch --save-dev
 ```
 
 ## Usage
