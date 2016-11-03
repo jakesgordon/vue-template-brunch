@@ -1,7 +1,7 @@
 # Vue Template Brunch
 
 Adds support to Brunch for PRE-compiling standalone vue templates (e.g. .html files)
-using [Vue.compile](https://vuejs.org/api/#Vue-compile)
+using [vue-template-compiler](https://www.npmjs.com/package/vue-template-compiler)
 
 > *NOTE*: This is NOT for single-file vue components where template, script, and styles are combined.
           For those you should use the [vue-brunch](https://www.npmjs.com/package/vue-brunch) plugin.
@@ -38,10 +38,10 @@ var component = {
 
 ## Related
 
+  * [Vue Template Compilation](https://vuejs.org/guide/render-function.html#Template-Compilation)
   * [Vue.compile method](https://vuejs.org/api/#Vue-compile)
-  * [Vue Template Compilation](see https://vuejs.org/guide/render-function.html#Template-Compilation)
-  * NPM - [vue-brunch](https://www.npmjs.com/package/vue-brunch)
   * NPM - [vue-template-compiler](https://www.npmjs.com/package/vue-template-compiler)
+  * NPM - [vue-brunch](https://www.npmjs.com/package/vue-brunch)
 
 ## License
 
