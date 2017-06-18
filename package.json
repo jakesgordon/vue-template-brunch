@@ -4,8 +4,8 @@
   "keywords": ["vue", "templates", "brunch" ],
   "author": "Jake Gordon <jake@codeincomplete.com>",
   "repository": {"type": "git", "url": "git:github.com/jakesgordon/vue-template-brunch"},
-  "version": "1.0.0",
+  "version": "2.3",
   "dependencies": {
-    "vue-template-compiler": "~2.0.3"
+    "vue-template-compiler": "~2.3"
   }
 }
