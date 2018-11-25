@@ -17,7 +17,7 @@ module.exports = (function() {
           other   = results.staticRenderFns.map(f => toFunc(f))
 
       if (results.errors.length > 0)
-        throw result.errors;
+        throw results.errors;
 
       return Promise.resolve(`module.exports = {
         render:            ${ render },
